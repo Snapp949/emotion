@@ -233,7 +233,7 @@
     "react-dom": "16.14.0",
     "react-native": "^0.63.2",
     "react-primitives": "^0.8.1",
-    "react-test-renderer": "16.8.6",
+    "react-test-renderer": "19.1.1",
     "react18": "npm:react@18.0.0-rc.0-next-aa8f2bdbc-20211215",
     "react18-dom": "npm:react-dom@18.0.0-rc.0-next-aa8f2bdbc-20211215",
     "react18-test-renderer": "npm:react-test-renderer@18.0.0-rc.0-next-aa8f2bdbc-20211215",
