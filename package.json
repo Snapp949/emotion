@@ -230,7 +230,7 @@
     "prettier": "^3.3.2",
     "raf": "^3.4.0",
     "react": "16.14.0",
-    "react-dom": "16.14.0",
+    "react-dom": "19.1.1",
     "react-native": "^0.63.2",
     "react-primitives": "^0.8.1",
     "react-test-renderer": "16.8.6",
